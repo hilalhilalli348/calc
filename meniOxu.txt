@@ -1,0 +1,4 @@
+*proyektde 2 plugin istifade edilmisdir her biri mit lisenziyasina sahibdir yeni istade huququna sahibik.
+
+1 - github.com/etienne-martin/jquery.dialog.js  ->  dialoq pencereleri ucun (alert)
+2 - http://blog.stevenlevithan.com/archives/date-time-format  -> tarix ve onun formatlanmasi ucun.
